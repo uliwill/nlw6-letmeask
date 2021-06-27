@@ -1,3 +1,22 @@
+# LETMEASK
+
+Projeto desenvolvido durante o evento Next Level Week Together. Letmeask é um app para criar e gerenciar salas de questionário.
+
+## Recursos utilizados:
+
+- ReactJS
+- SCSS
+- Firebase Realtime Database
+- Firebase Hosting
+
+![](https://github.com/uliwill/assets/blob/main/nlw6-tela-desktop001.jpg)
+
+![](https://github.com/uliwill/assets/blob/main/nlw6-tela-desktop002.jpg)
+
+![](https://github.com/uliwill/assets/blob/main/nlw6-tela-desktop003.jpg)
+
+![](https://github.com/uliwill/assets/blob/main/nlw6-telas-mobile.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
